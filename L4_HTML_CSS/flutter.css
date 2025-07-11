@@ -1,0 +1,210 @@
+html , body{
+   height: 100%;
+   width: 100%;
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box; 
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+}
+.Heading{
+    background-color:#2A6AFA;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    color: azure;
+}
+.Crazy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0%;
+    top: 65px;
+}
+.button{
+    padding: 20px ;
+}
+#Start{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 200px;
+    margin-right: 170px; */
+    padding: 90px;
+}
+.Super{
+    font-size: 50px;
+    text-align: center;
+    padding: 30px 150px;
+}
+.Lost{
+    background: linear-gradient( to right top, rgb(246, 190, 243) , rgb(205, 238, 240));
+}
+.Host{
+    margin: 0px 170px;
+    padding: 70px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+.Community{
+    padding: 20px;
+}
+.Packages{
+    padding: 20px;
+}
+.Events{
+    padding: 20px;
+}
+#Soya{
+    background-color: rgb(242, 242, 243);
+    color: #2A6AFA;
+    border-radius: 20px;
+    height: 30px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Real{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 130px;
+}
+.Image{
+    display: flex;
+   margin-left: 20px;
+}
+#Ena{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    left: 20px;
+}
+.Rest{
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    position: relative;
+    top: 39px;
+}
+#Ross{
+    background-color: #2A6AFA;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Loo{
+    display: flex;
+    justify-content: center;
+    /* margin-left: 100px;
+    margin-right: 150px; */
+    background: linear-gradient(rgb(241, 241, 166), rgb(237, 229, 229));
+    align-items: center;
+    padding: 60px;
+}
+.Soup{
+    display: flex;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+#Jenn{
+    background-color: rgb(242, 242, 243);
+    color: #2A6AFA;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Start{
+    display: flex;
+    align-items: center;
+    padding: 60px;
+    justify-content: center;
+}
+.Nash{
+    position: relative;
+    margin-right: 50px;
+}
+.Loss{
+    margin-left: 180px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+.Trex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+   background: linear-gradient(rgb(241, 241, 166), rgb(237, 229, 229));
+}
+.Nool{
+    display: flex;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+#Gee{
+     background-color: #2A6AFA;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ins{
+    background-color: #042449;
+    border-radius: 50px;
+    color: white;
+    margin: 100px 50px 100px 50px;
+    font-size: 20px;
+    padding: 10px 0px 40px 80px;
+    display: flex;
+    align-items: center;
+    height: 350px;
+}
+.install{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 20px;
+    color: #266BF9;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin: 25px;
+}
+.three{
+    display: flex;
+    align-items: center;
+}
+.im{
+    position: relative;
+    right: -411px;
+    top: 18px;
+    border-radius: 0px 50px 50px 0px;
+}
