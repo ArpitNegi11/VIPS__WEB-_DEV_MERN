@@ -174,7 +174,7 @@
 
 // }
 
-// person.fisrtName
+// person.firstName
 // let { firstName } = person
 // let {lastName } = person
 // console.log(firstName);
